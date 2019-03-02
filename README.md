@@ -4,7 +4,7 @@ At first the various ways your peers and friends run Python might be a little co
 # 4 ways to run Python
 
 1. [Text Editors](https://github.com/NetDevNotes/Ways-To-Run-Python/blob/master/README.md#text-editors)
-2. IDE's
+2. [IDE's](https://github.com/NetDevNotes/Ways-To-Run-Python/blob/master/README.md#ide-integrated-developemnt-environment)
 3. Notebook Environment
 4. Virtual Environments
 
