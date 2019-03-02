@@ -1,5 +1,5 @@
 # Ways-To-Run-Python
-At first the various ways your peers and friends run Python might be a litle confusing.  This is a high level artice that might help clear that up.
+At first the various ways your peers and friends run Python might be a little confusing.  This is a high level article that might help clear that up.
 
 # 4 ways to run Python
 
@@ -10,7 +10,7 @@ At first the various ways your peers and friends run Python might be a litle con
 
 > Note All the various ways can used for developing nearly any language, not just Python. 
 
-Below is a section on each with a description and some commony used apps:
+Below is a section on each with a description and some commonly used apps:
 
 1. **Text Editors**
     - Notepad
@@ -88,13 +88,13 @@ IDE's have all the features of the advanced Text Editors but with a compiler bui
 
 Notebook Environments are often used when learning to develop and has many if not all of the functionality as advanced Text Editors and IDE's, but you can see your code and the compiled script right next to each other on the same screen.  You can also write comments in-line or around your work, and even use markdown to format the comments.  This is all very useful when learning.
 
-> Its not just code noobs who use Notebook Environments, Data Scientists and other professionals use it as a compuational tool for scientific computing.
+> Its not just code noobs who use Notebook Environments, Data Scientists and other professionals use it as a computational tool for scientific computing.
 
 4. **Virtual Environments**
     - [Virtualenv](https://virtualenv.pypa.io/en/latest/)
     - [Pyenv](https://github.com/pyenv/pyenv)
 
-This is where things get a little more tricky, but simpley developers use Virtual Environments so that they can have multiple versions of Python on their workstation, each have (or at least can have) their own Python version and dependancies.  Another benefit is that you dont have to use your global Python version for testing, as this can lead to unexpected behaviour of the workstaion if we somehow missconfugre the local Python version.
+This is where things get a little more tricky, but simply put, developers use Virtual Environments so that they can have multiple versions of Python on their workstation, each have (or at least can have) their own Python version and dependancies.  Another benefit is that you dont have to use your global Python version for testing, as this can lead to unexpected behaviour of the workstation if we somehow miss-configure the local Python version.
 
 There are 2 commonly used virtual environment tools for Python and both do a similar thing:
 
@@ -111,4 +111,3 @@ Give them all a try, you'll probably learn a few things along the way.  But mayb
     <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
-
