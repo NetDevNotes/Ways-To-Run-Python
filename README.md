@@ -106,7 +106,7 @@ Pyenv is a bash extension and also lets you switch between multiple versions of 
 
 # Final Tip
 
-Give them all a try, you'll probably learn a few things along the way.  But unless you are in a work environment that uses virtual environments, maybe leave virtual environments until last as its the most complex way out of the four :smile: :coffee:
+Give them all a try, you'll probably learn a few things along the way (I did!).  But unless you are in a work environment that uses virtual environments, maybe leave virtual environments until last as its the most complex way out of the four :smile: :coffee:
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
