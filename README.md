@@ -1,21 +1,29 @@
 # Ways-To-Run-Python
-At first the various ways your peers and friends run Python might be confusing.  This is a high level artice to help clear up the confusion.
+At first the various ways your peers and friends run Python might be a litle confusing.  This is a high level artice to help clear that up.
 
 # The 3 Main Ways
 
-Below are the 3 ways, a description on each, and some common apps:
+1. Text Editors
+2. IDE's
+3. Notebook Environment
+
+> Note The below can be used for developing nearly any language, not just Python. 
+
+Below is a section on each with a description and some commony used apps:
 
 1. **Text Editors**
     - Notepad
     - TextEdit
-    - Notepad++
+    - [Notepad++](https://notepad-plus-plus.org/)
     - Vi
     - Vim
-    - Sublime Text
-    - BBEdit (Text Wrangler)
-    - Visual Studio Code (Microsoft)
+    - [Sublime Text](https://www.sublimetext.com/)
+    - [BBEdit](https://www.barebones.com) (Text Wrangler)
+    - [Visual Studio Code](https://code.visualstudio.com/) (Microsoft)
 
-Text Editors themselves cannot run Python scripts because they dont usually have an interpreter to compile the code, but you can create the code in any text editor.  The simplest Text Editor is something like Notepad (PC) or TextEdit (MAC), but other more advanced editors like **Sublime Text** have auto-completion features and in-line suggestions to help with remembering syntax. They also have cool find and replace features and colour highlighting that makes things look a lot clearer.
+Text Editors themselves cannot run Python scripts because they dont have an interpreter to compile the code, but often the code is created in a Text Editor, then compiled (run) in Python.  
+
+The simplest Text Editor is something like **Notepad** (PC) or **TextEdit** (MAC), but other more advanced editors like **Sublime Text** have auto-completion features and in-line suggestions to help with remembering syntax. They also have cool find and replace features and colour highlighting that makes things look a lot clearer.
 
 To run the code when using Text Editors you need to save the file with the .py extension, then you need to have Python installed to run it.
 
@@ -53,19 +61,26 @@ hello world
 ```
     
 2. **IDE** (Integrated Developemnt Environment)
-    - PyCharm
-    - Spyder
-    - Thonny
-    - Atom
+    - [PyCharm](https://www.jetbrains.com/pycharm/)
+    - [Spyder](https://www.spyder-ide.org/)
+    - [Thonny](https://thonny.org/)
+    - [Atom](https://ide.atom.io/)
 
 IDE's have all the features of the advanced Text Editors but with a compiler built in.  IDE's also have testing and debugging features that surpass Text Editors and help speed up code developemt.  Running, testing and debugging the scripts happens all in one place. 
 
 > TIP Don't rely on auto-completion too much, learn that code :smile:
 
 3. **Notebook Environments**
-    - Jupyter Notebook (IPython)
-    
-    
-    
+    - [Jupyter Notebook](https://jupyter.org/) (IPython)
+
+Notebook Environments are often used when learning to develop and has many if not all of the functionality as advanced Text Editors and IDE's, but you can see your code and the compiled script right next to each other on the same screen.  You can also write comments in-line or around your work, and even use markdown to format the comments.  This is all very useful when learning.
+
+> Its not just code noobs who use Notebook Environments, Data Scientists and other professionals use it as a compuational tool for scientific computing.
+
+# Final Tip
+
+Give them all a try, you'll probably learn a few things along the way :smile: :coffee:
+
+EOF
 
 
