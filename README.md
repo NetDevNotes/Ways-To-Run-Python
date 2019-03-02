@@ -22,10 +22,6 @@ Below is a section on each with a description and some commonly used apps:
     - [Sublime Text](https://www.sublimetext.com/)
     - [BBEdit](https://www.barebones.com) (Text Wrangler)
     - [Visual Studio Code](https://code.visualstudio.com/) (Microsoft)
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
 
 Text Editors themselves cannot run Python scripts because they dont have an interpreter to compile the code, but often the code is created in a Text Editor, then compiled (run) in Python.  
 
@@ -52,11 +48,6 @@ To run it simply prefix the file name with `python`.  You will see the script wi
 hello world
 #
 ```
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
-
 Another way to run code is directly within the Python environment on your workstation.  You can type `python` into the command line, then type the code directly. Below I typed `print('hello world')` straight into Python.  
 
 > This is not used much but worth pointing out.
