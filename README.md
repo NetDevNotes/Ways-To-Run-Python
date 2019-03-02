@@ -5,8 +5,8 @@ At first the various ways your peers and friends run Python might be a little co
 
 1. [Text Editors](https://github.com/NetDevNotes/Ways-To-Run-Python/blob/master/README.md#text-editors)
 2. [IDE's](https://github.com/NetDevNotes/Ways-To-Run-Python/blob/master/README.md#ide-integrated-developemnt-environment)
-3. Notebook Environment
-4. Virtual Environments
+3. [Notebook Environment](https://github.com/NetDevNotes/Ways-To-Run-Python/blob/master/README.md#notebook-environments)
+4. [Virtual Environments]()
 
 > Note Many of the below described tools can used for developing nearly any language, not just Python. But some are specific to Python.
 
