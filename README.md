@@ -11,7 +11,6 @@ At first the various ways your peers and friends run Python might be a little co
 > Note Many of the below described tools can used for developing nearly any language, not just Python. But some are specific to Python.
 
 Below is a section on each with a description and some commonly used apps:
-
 1.
 # Text Editors
     - Notepad
@@ -59,8 +58,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> print('hello world')
 hello world
 >>>
-```
-    
+```  
 2. 
 # IDE (Integrated Developemnt Environment)
     - [PyCharm](https://www.jetbrains.com/pycharm/)
@@ -75,7 +73,6 @@ IDE's have all the features of the advanced Text Editors but with a compiler bui
     <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
-
 3. 
 # Notebook Environments**
     - [Jupyter Notebook](https://jupyter.org/) (IPython)
@@ -87,7 +84,6 @@ Notebook Environments are often used when learning to develop and has many if no
     <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
-
 4. 
 # Virtual Environments**
     - [Virtualenv](https://virtualenv.pypa.io/en/latest/)
