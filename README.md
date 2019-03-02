@@ -57,7 +57,11 @@ hello world
     - Spyder
     - Thonny
     - Atom
-    
+
+IDE's have all the features of the advanced Text Editors but with a compiler built in.  IDE's also have testing and debugging features that surpass Text Editors and help speed up code developemt.  Running, testing and debugging the scripts happens all in one place. 
+
+> TIP Don't rely on auto-completion too much, learn that code :smile:
+
 3. **Notebook Environments**
     - Jupyter Notebook (IPython)
     
