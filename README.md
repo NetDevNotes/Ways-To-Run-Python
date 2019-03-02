@@ -1,11 +1,12 @@
 # Ways-To-Run-Python
-At first the various ways your peers and friends run Python might be a litle confusing.  This is a high level artice that might clear that up.
+At first the various ways your peers and friends run Python might be a litle confusing.  This is a high level artice that might help clear that up.
 
-# The 3 Main Ways
+# 4 ways to run Python
 
 1. Text Editors
 2. IDE's
 3. Notebook Environment
+4. Virtual Environments
 
 > Note All the various ways can used for developing nearly any language, not just Python. 
 
@@ -89,9 +90,22 @@ Notebook Environments are often used when learning to develop and has many if no
 
 > Its not just code noobs who use Notebook Environments, Data Scientists and other professionals use it as a compuational tool for scientific computing.
 
+4. **Virtual Environments**
+    - Python Virtualenv
+    - Pyenv
+
+This is where things get a little more tricky, but simpley developers use Virtual Environments so that they can have multiple versions of Python on their workstation, each have (or at least can have) their own Python version and dependancies.  Another benefit is that you dont have to use your global Python version for testing, as this can lead to unexpected behaviour of the workstaion if we somehow missconfugre the local Python version.
+
+There are 2 commonly used virtual environment tools for Python and both do a similar thing but in a different way and a slightly different feature set and use case.
+
+# Python Virtualenv
+
+
+# PyEnv
+
 # Final Tip
 
-Give them all a try, you'll probably learn a few things along the way :smile: :coffee:
+Give them all a try, you'll probably learn a few things along the way.  But maybe leave virtual environments until last as its the most complex way out of the four :smile: :coffee:
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
