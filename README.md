@@ -92,6 +92,10 @@ IDE's have all the features of the advanced Text Editors but with a compiler bui
 Notebook Environments are often used when learning to develop and has many if not all of the functionality as advanced Text Editors and IDE's, but you can see your code and the compiled script right next to each other on the same screen.  You can also write comments in-line or around your work, and even use markdown to format the comments.  This is all very useful when learning.
 
 > Its not just code noobs who use Notebook Environments, Data Scientists and other professionals use it as a computational tool for scientific computing.
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
 
 4. 
 # Virtual Environments**
