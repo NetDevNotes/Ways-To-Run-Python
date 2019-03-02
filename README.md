@@ -39,6 +39,18 @@ hello world
 #
 ```
 
+Another way to run code is directly within the Python environment on your workstation.  You can type `python` into the command line, then type the code directly. Below I typed `print('hello world')` straight into Python.  
+
+> This is not used much but worth pointing out.
+```
+# python
+Python 3.7.2 (default, Feb  9 2019, 17:58:46)
+[Clang 10.0.0 (clang-1000.10.44.4)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print('hello world')
+hello world
+>>>
+```
     
 2. **IDE** (Integrated Developemnt Environment)
     - PyCharm
