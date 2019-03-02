@@ -84,6 +84,7 @@ Notebook Environments are often used when learning to develop and has many if no
     <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
+
 4. 
 # Virtual Environments
     - [Virtualenv](https://virtualenv.pypa.io/en/latest/)
