@@ -1,4 +1,4 @@
-# Ways-To-Run-Python
+# Ways-To-Run-Python :coffee:
 At first the various ways your peers and friends run Python might be a little confusing.  This is a high level article that might help clear that up.
 
 # 4 ways to run Python
