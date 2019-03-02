@@ -20,6 +20,10 @@ Below is a section on each with a description and some commony used apps:
     - [Sublime Text](https://www.sublimetext.com/)
     - [BBEdit](https://www.barebones.com) (Text Wrangler)
     - [Visual Studio Code](https://code.visualstudio.com/) (Microsoft)
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
 
 Text Editors themselves cannot run Python scripts because they dont have an interpreter to compile the code, but often the code is created in a Text Editor, then compiled (run) in Python.  
 
@@ -46,6 +50,10 @@ To run it simply prefix the file name with `python`.  You will see the script wi
 hello world
 #
 ```
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
 
 Another way to run code is directly within the Python environment on your workstation.  You can type `python` into the command line, then type the code directly. Below I typed `print('hello world')` straight into Python.  
 
@@ -69,6 +77,10 @@ hello world
 IDE's have all the features of the advanced Text Editors but with a compiler built in.  IDE's also have testing and debugging features that surpass Text Editors and help speed up code developemt.  Running, testing and debugging the scripts happens all in one place. 
 
 > TIP Don't rely on auto-completion too much, learn that code :smile:
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
 
 3. **Notebook Environments**
     - [Jupyter Notebook](https://jupyter.org/) (IPython)
@@ -80,7 +92,8 @@ Notebook Environments are often used when learning to develop and has many if no
 # Final Tip
 
 Give them all a try, you'll probably learn a few things along the way :smile: :coffee:
-
-EOF
-
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
 
