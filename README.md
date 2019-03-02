@@ -45,7 +45,7 @@ hello_world.py
 # cat hello_world.py
 print('hello world')
 ```
-To run it simply prefix the file name with `python`.  You will see the script will print `hello world` to the screen:
+To run it simply prefix the file name with `python`.  The script will print `hello world` to the screen:
 ```
 # python hello_world.py
 hello world
