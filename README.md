@@ -8,7 +8,7 @@ At first the various ways your peers and friends run Python might be a little co
 3. Notebook Environment
 4. Virtual Environments
 
-> Note All the various ways can used for developing nearly any language, not just Python. 
+> Note Many of the below described tools can used for developing nearly any language, not just Python. But some are specific to Python.
 
 Below is a section on each with a description and some commonly used apps:
 
