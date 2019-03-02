@@ -13,9 +13,10 @@ At first the various ways your peers and friends run Python might be a little co
 Below is a section on each with a description and some commonly used apps:
 
 # Text Editors
+
     - Notepad
     - TextEdit
-    - [Notepad++](https://notepad-plus-plus.org/)
+    - [Notepad++](https://notepad-plus-plus.org/) 
     - [Vi](https://en.wikipedia.org/wiki/Vi)
     - [Vim](https://www.vim.org/)
     - [Sublime Text](https://www.sublimetext.com/)
@@ -65,6 +66,7 @@ hello world
 >>>
 ```  
 # IDE (Integrated Developemnt Environment)
+
     - [PyCharm](https://www.jetbrains.com/pycharm/)
     - [Spyder](https://www.spyder-ide.org/)
     - [Thonny](https://thonny.org/)
@@ -86,6 +88,7 @@ Notebook Environments are often used when learning to develop and has many if no
 <br/>
 
 # Virtual Environments
+
     - [Virtualenv](https://virtualenv.pypa.io/en/latest/)
     - [Pyenv](https://github.com/pyenv/pyenv)
 
@@ -94,10 +97,10 @@ This is where things get a little more tricky, but simply put, developers use Vi
 There are 2 commonly used virtual environment tools for Python and both do a similar thing:
 
 ### Virtualenv
-VirtualEnv is pure python and lets you switch between multiple versions of Python on one workstation.
+VirtualEnv is pure python and lets you switch between multiple versions of Python on a single workstation.
 
 ### PyEnv
-Pyenv is a bash extension and also lets you switch between multiple versions of Python on one workstation. Since Python version 3.4 pyenv has come with Pythons standard distribution.  It used the venv module underneath. 
+Pyenv is a bash extension and also lets you switch between multiple versions of Python on a single workstation. Since Python version 3.4 pyenv has come with Pythons standard distribution.  It uses the `venv` module underneath. 
 
 # Final Tip
 
