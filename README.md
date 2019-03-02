@@ -7,7 +7,7 @@ At first the various ways your peers and friends run Python might be a litle con
 2. IDE's
 3. Notebook Environment
 
-> Note The below can be used for developing nearly any language, not just Python. 
+> Note All the various ways can used for developing nearly any language, not just Python. 
 
 Below is a section on each with a description and some commony used apps:
 
