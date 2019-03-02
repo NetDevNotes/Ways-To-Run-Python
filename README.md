@@ -12,7 +12,6 @@ At first the various ways your peers and friends run Python might be a little co
 
 Below is a section on each with a description and some commonly used apps:
 
-1.
 # Text Editors
     - Notepad
     - TextEdit
@@ -65,7 +64,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 hello world
 >>>
 ```  
-2. 
 # IDE (Integrated Developemnt Environment)
     - [PyCharm](https://www.jetbrains.com/pycharm/)
     - [Spyder](https://www.spyder-ide.org/)
@@ -75,7 +73,7 @@ hello world
 IDE's have all the features of the advanced Text Editors but with a compiler built in.  IDE's also have testing and debugging features that surpass Text Editors and help speed up code developemt.  Running, testing and debugging the scripts happens all in one place. 
 
 > TIP Maybe don't rely too much on auto-completion too much, probably best to learn that code! :smile:
-3. 
+
 # Notebook Environments**
     - [Jupyter Notebook](https://jupyter.org/) (IPython)
 
@@ -87,7 +85,6 @@ Notebook Environments are often used when learning to develop and has many if no
 </div>
 <br/>
 
-4. 
 # Virtual Environments
     - [Virtualenv](https://virtualenv.pypa.io/en/latest/)
     - [Pyenv](https://github.com/pyenv/pyenv)
