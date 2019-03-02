@@ -23,10 +23,6 @@ Below is a section on each with a description and some commonly used apps:
     - [Visual Studio Code](https://code.visualstudio.com/) (Microsoft)
 
 Text Editors themselves cannot run Python scripts because they dont have an interpreter to compile the code, but often the code is created in a Text Editor, then compiled (run) in Python.  
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
 
 The simplest Text Editor is something like **Notepad** (PC) or **TextEdit** (MAC), but other more advanced editors like **Sublime Text** have auto-completion features and in-line suggestions to help with remembering syntax. They also have cool find and replace features and colour highlighting that makes things look a lot clearer.
 
@@ -36,6 +32,11 @@ Below I have created the obligatory first script called hello_world.py with the 
 ```
 print('hello world')
 ```
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
+
 Save to your home directory, maybe to a folder called `python`
 ```
 # pwd
