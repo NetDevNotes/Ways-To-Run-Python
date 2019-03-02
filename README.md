@@ -12,7 +12,8 @@ At first the various ways your peers and friends run Python might be a little co
 
 Below is a section on each with a description and some commonly used apps:
 
-1. **Text Editors**
+1.
+# Text Editors
     - Notepad
     - TextEdit
     - [Notepad++](https://notepad-plus-plus.org/)
@@ -69,7 +70,8 @@ hello world
 >>>
 ```
     
-2. **IDE** (Integrated Developemnt Environment)
+2. 
+# IDE (Integrated Developemnt Environment)
     - [PyCharm](https://www.jetbrains.com/pycharm/)
     - [Spyder](https://www.spyder-ide.org/)
     - [Thonny](https://thonny.org/)
@@ -83,14 +85,16 @@ IDE's have all the features of the advanced Text Editors but with a compiler bui
 </div>
 <br/>
 
-3. **Notebook Environments**
+3. 
+# Notebook Environments**
     - [Jupyter Notebook](https://jupyter.org/) (IPython)
 
 Notebook Environments are often used when learning to develop and has many if not all of the functionality as advanced Text Editors and IDE's, but you can see your code and the compiled script right next to each other on the same screen.  You can also write comments in-line or around your work, and even use markdown to format the comments.  This is all very useful when learning.
 
 > Its not just code noobs who use Notebook Environments, Data Scientists and other professionals use it as a computational tool for scientific computing.
 
-4. **Virtual Environments**
+4. 
+# Virtual Environments**
     - [Virtualenv](https://virtualenv.pypa.io/en/latest/)
     - [Pyenv](https://github.com/pyenv/pyenv)
 
