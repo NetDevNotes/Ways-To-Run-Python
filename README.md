@@ -17,7 +17,6 @@ Below is a section on each with a description and some commonly used apps:
    - TextEdit
    - [Notepad++](https://notepad-plus-plus.org/)
    - [Vi](https://en.wikipedia.org/wiki/Vi)
-   - [Vim](https://www.vim.org/)
    - [Sublime Text](https://www.sublimetext.com/)
    - [BBEdit](https://www.barebones.com) (Text Wrangler)
    - [Visual Studio Code](https://code.visualstudio.com/) (Microsoft)
