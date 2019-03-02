@@ -91,8 +91,8 @@ Notebook Environments are often used when learning to develop and has many if no
 > Its not just code noobs who use Notebook Environments, Data Scientists and other professionals use it as a compuational tool for scientific computing.
 
 4. **Virtual Environments**
-    - Virtualenv
-    - Pyenv
+    - [Virtualenv](https://virtualenv.pypa.io/en/latest/)
+    - [Pyenv](https://github.com/pyenv/pyenv)
 
 This is where things get a little more tricky, but simpley developers use Virtual Environments so that they can have multiple versions of Python on their workstation, each have (or at least can have) their own Python version and dependancies.  Another benefit is that you dont have to use your global Python version for testing, as this can lead to unexpected behaviour of the workstaion if we somehow missconfugre the local Python version.
 
