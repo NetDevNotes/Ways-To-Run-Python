@@ -98,10 +98,10 @@ This is where things get a little more tricky, but simpley developers use Virtua
 
 There are 2 commonly used virtual environment tools for Python and both do a similar thing:
 
-# Virtualenv
+### Virtualenv
 VirtualEnv is pure python and lets you switch between multiple versions of Python on one workstation.
 
-# PyEnv
+### PyEnv
 Pyenv is a bash extension and also lets you switch between multiple versions of Python on one workstation. Since Python version 3.4 pyenv has come with Pythons standard distribution.  It used the venv module underneath. 
 
 # Final Tip
