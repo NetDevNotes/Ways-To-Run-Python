@@ -66,10 +66,10 @@ hello world
 ```  
 # IDE (Integrated Developemnt Environment)
 
-    - [PyCharm](https://www.jetbrains.com/pycharm/)
-    - [Spyder](https://www.spyder-ide.org/)
-    - [Thonny](https://thonny.org/)
-    - [Atom](https://ide.atom.io/)
+   - [PyCharm](https://www.jetbrains.com/pycharm/)
+   - [Spyder](https://www.spyder-ide.org/)
+   - [Thonny](https://thonny.org/)
+   - [Atom](https://ide.atom.io/)
 
 IDE's have all the features of the advanced Text Editors but with a compiler built in.  IDE's also have testing and debugging features that surpass Text Editors and help speed up code developemt.  Running, testing and debugging the scripts happens all in one place. 
 
@@ -88,8 +88,8 @@ Notebook Environments are often used when learning to develop and has many if no
 
 # Virtual Environments
 
-    - [Virtualenv](https://virtualenv.pypa.io/en/latest/)
-    - [Pyenv](https://github.com/pyenv/pyenv)
+   - [Virtualenv](https://virtualenv.pypa.io/en/latest/)
+   - [Pyenv](https://github.com/pyenv/pyenv)
 
 This is where things get a little more tricky, but simply put, developers use Virtual Environments so that they can have multiple versions of Python on their workstation, each have (or at least can have) their own Python version and dependancies.  Another benefit is that you dont have to use your global Python version for testing, as this can lead to unexpected behaviour of the workstation if we somehow miss-configure the local Python version.
 
