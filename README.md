@@ -13,14 +13,14 @@ At first the various ways your peers and friends run Python might be a little co
 Below is a section on each with a description and some commonly used apps:
 
 # Text Editors
-    - Notepad
-    - TextEdit
-    - [Notepad++] (https://notepad-plus-plus.org/)
-    - [Vi] (https://en.wikipedia.org/wiki/Vi)
-    - [Vim] (https://www.vim.org/)
-    - [Sublime Text] (https://www.sublimetext.com/)
-    - [BBEdit] (https://www.barebones.com) (Text Wrangler)
-    - [Visual Studio Code] (https://code.visualstudio.com/) (Microsoft)
+   - Notepad
+   - TextEdit
+   - [Notepad++](https://notepad-plus-plus.org/)
+   - [Vi](https://en.wikipedia.org/wiki/Vi)
+   - [Vim](https://www.vim.org/)
+   - [Sublime Text](https://www.sublimetext.com/)
+   - [BBEdit](https://www.barebones.com) (Text Wrangler)
+   - [Visual Studio Code](https://code.visualstudio.com/) (Microsoft)
 
 Text Editors themselves cannot run Python scripts because they dont have an interpreter to compile the code, but often the code is created in a Text Editor, then compiled (run) in Python.  
 
