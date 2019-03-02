@@ -77,7 +77,7 @@ hello world
 
 IDE's have all the features of the advanced Text Editors but with a compiler built in.  IDE's also have testing and debugging features that surpass Text Editors and help speed up code developemt.  Running, testing and debugging the scripts happens all in one place. 
 
-> TIP Don't rely on auto-completion too much, learn that code :smile:
+> TIP Maybe don't rely too much on auto-completion too much, probably best to learn that code! :smile:
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
