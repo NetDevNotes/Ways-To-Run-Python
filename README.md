@@ -11,6 +11,7 @@ At first the various ways your peers and friends run Python might be a little co
 > Note Many of the below described tools can used for developing nearly any language, not just Python. But some are specific to Python.
 
 Below is a section on each with a description and some commonly used apps:
+
 1.
 # Text Editors
     - Notepad
