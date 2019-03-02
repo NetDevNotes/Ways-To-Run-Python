@@ -1,5 +1,5 @@
 # Ways-To-Run-Python
-At first the various ways your peers and friends run Python might be a litle confusing.  This is a high level artice to help clear that up.
+At first the various ways your peers and friends run Python might be a litle confusing.  This is a high level artice that might clear that up.
 
 # The 3 Main Ways
 
