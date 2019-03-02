@@ -14,9 +14,9 @@ Below is a section on each with a description and some commonly used apps:
 
 # Text Editors
 
-    - Notepad
+    - [Notepad](www.nic.com)
     - TextEdit
-    - [Notepad++](https://notepad-plus-plus.org/) 
+    - [Notepad++](https://notepad-plus-plus.org/)  
     - [Vi](https://en.wikipedia.org/wiki/Vi)
     - [Vim](https://www.vim.org/)
     - [Sublime Text](https://www.sublimetext.com/)
