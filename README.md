@@ -74,7 +74,7 @@ IDE's have all the features of the advanced Text Editors but with a compiler bui
 
 > TIP Maybe don't rely too much on auto-completion too much, probably best to learn that code! :smile:
 
-# Notebook Environments**
+# Notebook Environments
     - [Jupyter Notebook](https://jupyter.org/) (IPython)
 
 Notebook Environments are often used when learning to develop and has many if not all of the functionality as advanced Text Editors and IDE's, but you can see your code and the compiled script right next to each other on the same screen.  You can also write comments in-line or around your work, and even use markdown to format the comments.  This is all very useful when learning.
